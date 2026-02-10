@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source AI tools**
 
-- 💬 Ask me anything about **Aritificail Intelligence**
+- 💬 Ask me anything about **Aritificial Intelligence**
 
 - 📫 How to reach me **sutharshansutha76@gmail.com**
 
