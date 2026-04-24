@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sutharshan Suthakaran</h1>
-<h3 align="center">Computer Science @ UWindsor | Aspiring AI Engineer specialized in Agentic Workflows & Security</h3>
+<h3 align="center">Computer Science @ UWindsor | Aspiring AI Data Analyst | AI Engineer </h3>
 
-- 🔭 I’m currently working on **Neural-Trace**
+- 🔭 I’m currently looking for Co-op placements
 
-- 🌱 I’m currently learning **Advanced Agentic Workflows and multi-modal model fine-tuning**
+- 🌱 I’m currently learning more about AI systems and tools used for production
 
 - 👯 I’m looking to collaborate on **Open-source AI tools**
 
-- 💬 Ask me anything about **Aritificial Intelligence**
+- 💬 Ask me anything about **Aritificial Intelligence | Data**
 
 - 📫 How to reach me **sutharshansutha76@gmail.com**
 
